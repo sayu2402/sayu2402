@@ -19,3 +19,4 @@ I’m a passionate Backend Developer who loves building clean, scalable, and hig
 - Databases: PostgreSQL, MySQL, SQLite
 - Tools & Platforms: Docker, Git, Linux, AWS (basic)
 - Other Skills: REST API Design, Celery, WebSockets (Django Channels)
+

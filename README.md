@@ -20,3 +20,5 @@ I’m a passionate Backend Developer who loves building clean, scalable, and hig
 - Tools & Platforms: Docker, Git, Linux, AWS (basic)
 - Other Skills: REST API Design, Celery, WebSockets (Django Channels)
 
+📊 GitHub Analytics
+<p align=\"center\"> <img src=\"https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight\" height=\"160px\" /> <img src=\"https://streak-stats.demolab.com?user=yourusername&theme=tokyonight\" height=\"160px\" /> </p>
